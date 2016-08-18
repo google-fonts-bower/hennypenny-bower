@@ -1,0 +1,17 @@
+{
+    "name": "hennypenny-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Brownfox"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/hennypenny-bower.git"
+    },
+    "description": "Henny Penny font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
